@@ -20,7 +20,7 @@
 
 <span>Find Me on</span>
   
-[![Gmail](https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=Gmail&logoColor=ea4335&labelColor=FFF)](mailto:sadrataghavi1383@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discord.gg/4chSwNEQ3E)
+[![Gmail](https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=Gmail&logoColor=ea4335&labelColor=FFF)](mailto:sudolite98@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discord.gg/4bmMXHXHp6)
   
 </div>
