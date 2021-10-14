@@ -1,4 +1,6 @@
 # Changelog 😍
+
+![Screenshot 2021-10-14 103558.png](https://cloud.headwayapp.co/changelogs_images/images/big/000/076/641-4b7bb7a2850202860275337e37f06a3fbce41c85.png =100%)
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
