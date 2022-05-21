@@ -31,7 +31,7 @@ I love the challenge of finding caches and spending time to meet new people. Lea
 
 ## 🔭 I'm currently working on
 
-- [Vanilla](https://github.com/SudoLite/Vanilla)
+- [Vanilla](https://github.com/SudoLite/Vanilla) (Private)
 - [MHDDoS](https://github.com/MatrixTM/MHDDoS)
 
 ## 🌱 I'm currently learning
