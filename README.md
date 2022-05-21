@@ -12,7 +12,7 @@ I love the challenge of finding caches and spending time to meet new people. Lea
   
 [![SudoLite GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudoLite&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/SudoLite)
   
-<!--[![SudoLite Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoLite&layout=compact&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/SudoLite)-->
+[![SudoLite Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoLite&layout=compact&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/SudoLite)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SudoLite&bg_color=000&icon_color=FFF&border_radius=10)](https://github.com/SudoLite?tab=repositories)
    -->
