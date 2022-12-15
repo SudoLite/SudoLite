@@ -36,7 +36,7 @@ I love the challenge of finding caches and spending time to meet new people. Lea
 
 ## 🌱 I'm currently learning
 
-- Python
+- ...
 
 ### 🤝 Connect with me:
 
