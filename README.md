@@ -39,6 +39,7 @@ I love the challenge of finding caches and spending time to meet new people. Lea
 
 ### 🤝 Connect with me:
 
-[![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discord.gg/4bmMXHXHp6)
+<!--[![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discord.gg/4bmMXHXHp6) -->
+[![Telegram](https://img.shields.io/badge/Telegram-125gdf52?style=flat&logo=Telegram&logoColor=FFFFFF&labelColor=2c2f33&color=26A5E4)](https://t.me/SudoLite)
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
