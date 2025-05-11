@@ -26,7 +26,7 @@ I love the challenge of finding caches and spending time to meet new people. Lea
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' width='40' height='40' />](https://www.php.net/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' width='40' height='40' />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />]([https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme](https://code.visualstudio.com/))
 <!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' width='40' height='40' />](https://www.docker.com/) -->
 
 ## 🔭 I'm currently working on
