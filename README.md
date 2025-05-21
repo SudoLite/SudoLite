@@ -1,5 +1,5 @@
 <h2 align="center">
-I'm a Little Developer 💻, and Designer 🎨!
+I'm a Full Stack Developer 💻, and Designer 🎨!
 </h2> 
 
 I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
@@ -28,14 +28,6 @@ I love the challenge of finding caches and spending time to meet new people. Lea
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />]([https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme](https://code.visualstudio.com/))
 <!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' width='40' height='40' />](https://www.docker.com/) -->
-
-## 🔭 I'm currently working on
-
-- [Vanilla](https://github.com/SudoLite/Vanilla) (Private)
-
-## 🌱 I'm currently learning
-
-- ...
 
 ### 🤝 Connect with me:
 
